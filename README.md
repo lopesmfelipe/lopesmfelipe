@@ -13,7 +13,7 @@ I am a software Developer currently dealing with WEB development with a focus on
  <img align="center" alt="Spring" height="30" width="85" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=whitee">
 </div><br> 
 
-fasdfa
+
 📫 How to reach me:
  - LinkedIn: https://www.linkedin.com/in/felipe-m-lopes-308944268
  - E-mail: felipemlopes0009@gmail.com
