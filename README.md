@@ -1,4 +1,4 @@
-### Hello, I am Felipe! asdfasfdasdfasf
+###  Hello, I am Felipe! 
 I am a software Developer currently dealing with WEB development with a focus on Spring(Back-End) and ReactJS(Front-End).
 <div>
     <img height="140" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=lopesmfelipe&show_icons=true&theme=dark&count_private=true">
@@ -6,7 +6,24 @@ I am a software Developer currently dealing with WEB development with a focus on
 </div>
 
 <div style="display: inline_block"><br>
- <img align="center" alt="Spring" height="30" width="85" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+ <img align="center" alt="Spring" height="30" width="85" src="https://img.shields
+	
+
+
+    
+
+
+	
+
+			
+
+				
+				
+			
+
+	
+
+	.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
  <img align="center" alt="Spring" height="30" width="85" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
  <img align="center" alt="Spring" height="30" width="85" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
  <img align="center" alt="Spring" height="30" width="85" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
