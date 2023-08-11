@@ -14,6 +14,6 @@ I am a software De veloper currently dealing with WEB development with a focus o
 </div><br> 
 
 
-📫 How to reach me:
+📫How to reach me:
  - LinkedIn: https://www.linkedin.com/in/felipe-m-lopes-308944268
  - E-mail: felipemlopes0009@gmail.com
