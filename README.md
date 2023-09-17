@@ -15,5 +15,5 @@ I am a software Developer currently dealing with WEB development with a focus on
 
 
 📫How to reach me:
- - LinkedIn : https://www.linkedin.com/in/felipe-m-lopes-308944268
+ - LinkedIn: https://www.linkedin.com/in/felipe-m-lopes-308944268
  - E-mail: felipemagalhaes0999@gmail.com
