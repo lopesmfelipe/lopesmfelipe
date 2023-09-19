@@ -1,5 +1,5 @@
 ###  Hello, I am Felipe ! 
-I am a software Developer currently dealing with WEB development with a focus on Spring (Back-End) and React JS (Front-End).
+I am a software Developer currently dealing with WEB development with a focus on Spring (Back-End) and React JS (Front-End) .
 <div>
     <img height="140" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=lopesmfelipe&show_icons=true&theme=dark&count_private=true">
     <img height="140" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=lopesmfelipe&layout=compact&theme=dark">
