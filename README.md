@@ -1,4 +1,4 @@
-###  Hello, I am Felipe! 
+###  Hi, I'm Felipe! 
 I am a software Developer currently dealing with fullstack WEB development with a focus on Spring Framework (Back-End ) and React(Front-End) .
 <div>
     <img height="140" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=lopesmfelipe&show_icons=true&theme=dark&count_private=true">
@@ -18,7 +18,7 @@ I am a software Developer currently dealing with fullstack WEB development with 
 
 
 
-# 🌐 Contact:
+# 🌐 Contact
 
  - LinkedIn: https://www.linkedin.com/in/felipe-m-lopes-308944268
  - E-mail : felipemagalhaes0999@gmail.com
