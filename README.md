@@ -8,8 +8,7 @@ Software Engineer working with fullstack WEB development
  - E-mail : felipemagalhaes0999@gmail.com
 
 
-<h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥s</h2>
-<!-- <img src="skill.png"> -->
+<h2>Skills</h2>
 <p align="center">
 <table align="center">
   <tr>
