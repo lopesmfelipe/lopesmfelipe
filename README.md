@@ -3,7 +3,7 @@ Software Engineer working with fullstack WEB development
 
 <div style="display: inline_block"><br>
 
-# 🌐 Contact
+# Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-magalhaes-b2b36a2b6/)
  - E-mail : felipemagalhaes0999@gmail.com
 
